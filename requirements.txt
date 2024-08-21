@@ -2,3 +2,5 @@ streamlit
 qdrant-client
 tensorflow
 keras
+opencv-python
+requests
